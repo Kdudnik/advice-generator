@@ -22,6 +22,4 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-README-template.md
-style-guide.md
 package-lock.json
